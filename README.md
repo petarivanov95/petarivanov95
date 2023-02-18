@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Petar</h1>
 <h3 align="center">A structural engineer with a strong interest in computer science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=petarivanov95&label=Profile%20views&color=0e75b6&style=flat" alt="petarivanov95" /> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **petarivanov95@gmail.com**
