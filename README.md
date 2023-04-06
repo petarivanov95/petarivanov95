@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Petar</h1>
-<h3 align="center">A structural engineer with a strong interest in computer science.</h3>
+<h1 align="left">Hi 👋, I'm Petar</h1>
+<h3 align="left">A structural engineer with a strong interest in computer science.</h3>
 
 - 🌱 I’m currently learning **Python**
 
