@@ -23,4 +23,4 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>)
 ![VS Code]( https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>)
 
-<a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=petarivanov95&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=petarivanov95&theme=dark)](https://git.io/streak-stats)
